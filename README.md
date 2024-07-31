@@ -40,7 +40,7 @@ To set up and view this portfolio website locally, follow these steps:
 
 # Development
 
-- **Mobile First:** Designed initially for mobile devices and then adapted for desktop.
+- **Compatibility:** Designed for mobile devices and also adapted for desktop.
 - **Animations:** Utilizes CSS and JavaScript for scroll-triggered effects.
 
 # Contribution
@@ -51,6 +51,6 @@ Feel free to fork this repository and submit pull requests if you have suggestio
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+# Contact
 
 For any questions or feedback, please contact me at [pvgopi04@gmail.com](mailto:pvgopi04@gmail.com).
