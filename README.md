@@ -36,8 +36,6 @@ To set up and view this portfolio website locally, follow these steps:
    open index.html
    ```
 
-   Alternatively, you can open `index.html` in any web browser to view the website.
-
 # Development
 
 - **Compatibility:** Designed for mobile devices and also adapted for desktop.
@@ -46,10 +44,6 @@ To set up and view this portfolio website locally, follow these steps:
 # Contribution
 
 Feel free to fork this repository and submit pull requests if you have suggestions for improvements or bug fixes.
-
-# License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 # Contact
 
