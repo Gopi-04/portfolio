@@ -10,8 +10,8 @@ This is a responsive personal portfolio website developed with HTML, CSS, and Ja
 
 # Technologies Used
 
-- **HTML5:** Markup language for structuring content.
-- **CSS3:** Styling with animations and responsive design techniques.
+- **HTML:** Markup language for structuring content.
+- **CSS:** Styling with animations and responsive design techniques.
 - **JavaScript:** Enhances functionality with smooth scrolling and interactive elements.
 
 # Getting Started
